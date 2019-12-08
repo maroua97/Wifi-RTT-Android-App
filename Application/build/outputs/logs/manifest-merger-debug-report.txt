@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:5-45:12
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:5-45:12
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:5-45:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af94d1ccd35d8b7b6bf2dc2ef55e7a24\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\30020ad6b60b08f6ba2933f342d8f657\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af7ef275d7c5a47283a1e7ffbb0533d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\d5a09c044ba4be35061fda407237a8af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c49a225a53e0b86ab4b9517eef09c937\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\4e7bc4d8f693e6309d4102fac4343e30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\bad92bf2a6643a3463da06eaf7612d04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\5153e19a33c64f6e5b3062a95be98c79\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\2c919fe37782a8de8f7a88e2614120b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\85dc5e26243324f8973e3aa56c000d46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c5cdfa8d9e482367358cdd42af0bfcb4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f2d3aac37d10df249593ea6236eaadf2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\940c5cdb70ad0f9f47b2073ba94cc763\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\270f54c45cbbbb4654515f36be5a15c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f5103b90f2ec08ad3bc01b3d07c75129\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\56b5841b9147b79e4d87e0c5e7dd5417\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\9238bda19a09d14e5823326e20911df0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\72341b2c014862901405914b80d2b141\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\a72729be12abcbdd31dd3ffcb7d2e949\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b0e4a663f4cf367bb7e0d7cd8194a1d9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\51c873ac02128f2d07b5b9795a160bf7\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\235dbe62a4087412b511d2dadbcfd625\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\6ecffee5fca874203dd9fe0e4fce359b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\ebf3dba794016b3bc5b70f37cad5a5da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\edd6e0535fdf807e2ad4fdacbb78261e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\094ea07281c3f687c4950651d8e258c3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\daa9a25d97b41762f5b5f5dd482a1285\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f56313a3ea7047722d19140e69cd1c2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\05b0cec9af44fe40bcdd706b54dd1a5f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:5-45:12
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:5-45:12
+	package
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:65-106
+	android:versionName
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:15-40
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:107-165
+	android:versionCode
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:5:41-64
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.wifi.rtt
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:7:3-59
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:7:17-57
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:12:3-76
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:12:20-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:14:3-73
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:14:20-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:16:3-73
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:16:20-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:18:3-78
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:18:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:20:3-77
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:20:20-75
+application
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:3-43:15
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af94d1ccd35d8b7b6bf2dc2ef55e7a24\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af94d1ccd35d8b7b6bf2dc2ef55e7a24\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\30020ad6b60b08f6ba2933f342d8f657\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\30020ad6b60b08f6ba2933f342d8f657\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\51c873ac02128f2d07b5b9795a160bf7\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\51c873ac02128f2d07b5b9795a160bf7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:54-80
+	android:label
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:127-159
+	android:roundIcon
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:81-126
+	android:icon
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:160-194
+	android:allowBackup
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:195-221
+	android:theme
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:23:16-53
+activity#com.example.android.wifirttscan.MainActivity
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:26:3-37:12
+	android:label
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:26:80-112
+	android:theme
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:26:42-79
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:29:3-35:17
+action#android.intent.action.MAIN
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:31:3-54
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:31:11-52
+category#android.intent.category.LAUNCHER
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:33:3-62
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:33:13-60
+activity#com.example.android.wifirttscan.LocationPermissionRequestActivity
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:39:3-223
+	android:parentActivityName
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:39:168-210
+	android:label
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:39:101-167
+	android:theme
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:39:63-100
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:39:13-62
+activity#com.example.android.wifirttscan.AccessPointRangingResultsActivity
+ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:41:3-224
+	android:parentActivityName
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:41:169-211
+	android:label
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:41:101-168
+	android:theme
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:41:63-100
+	android:name
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml:41:13-62
+uses-sdk
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af94d1ccd35d8b7b6bf2dc2ef55e7a24\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af94d1ccd35d8b7b6bf2dc2ef55e7a24\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\30020ad6b60b08f6ba2933f342d8f657\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\30020ad6b60b08f6ba2933f342d8f657\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af7ef275d7c5a47283a1e7ffbb0533d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\af7ef275d7c5a47283a1e7ffbb0533d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\d5a09c044ba4be35061fda407237a8af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\d5a09c044ba4be35061fda407237a8af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c49a225a53e0b86ab4b9517eef09c937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c49a225a53e0b86ab4b9517eef09c937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\4e7bc4d8f693e6309d4102fac4343e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\4e7bc4d8f693e6309d4102fac4343e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\bad92bf2a6643a3463da06eaf7612d04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\bad92bf2a6643a3463da06eaf7612d04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\5153e19a33c64f6e5b3062a95be98c79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\5153e19a33c64f6e5b3062a95be98c79\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\2c919fe37782a8de8f7a88e2614120b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\2c919fe37782a8de8f7a88e2614120b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\85dc5e26243324f8973e3aa56c000d46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\85dc5e26243324f8973e3aa56c000d46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c5cdfa8d9e482367358cdd42af0bfcb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\c5cdfa8d9e482367358cdd42af0bfcb4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f2d3aac37d10df249593ea6236eaadf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f2d3aac37d10df249593ea6236eaadf2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\940c5cdb70ad0f9f47b2073ba94cc763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\940c5cdb70ad0f9f47b2073ba94cc763\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\270f54c45cbbbb4654515f36be5a15c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\270f54c45cbbbb4654515f36be5a15c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f5103b90f2ec08ad3bc01b3d07c75129\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f5103b90f2ec08ad3bc01b3d07c75129\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\56b5841b9147b79e4d87e0c5e7dd5417\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\56b5841b9147b79e4d87e0c5e7dd5417\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\9238bda19a09d14e5823326e20911df0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\9238bda19a09d14e5823326e20911df0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\72341b2c014862901405914b80d2b141\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\72341b2c014862901405914b80d2b141\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b9fb978e72768a79c7efd970828f9c62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\a72729be12abcbdd31dd3ffcb7d2e949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\a72729be12abcbdd31dd3ffcb7d2e949\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b0e4a663f4cf367bb7e0d7cd8194a1d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\b0e4a663f4cf367bb7e0d7cd8194a1d9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\51c873ac02128f2d07b5b9795a160bf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\51c873ac02128f2d07b5b9795a160bf7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\235dbe62a4087412b511d2dadbcfd625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\235dbe62a4087412b511d2dadbcfd625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\6ecffee5fca874203dd9fe0e4fce359b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\6ecffee5fca874203dd9fe0e4fce359b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\ebf3dba794016b3bc5b70f37cad5a5da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\ebf3dba794016b3bc5b70f37cad5a5da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\edd6e0535fdf807e2ad4fdacbb78261e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\edd6e0535fdf807e2ad4fdacbb78261e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\094ea07281c3f687c4950651d8e258c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\094ea07281c3f687c4950651d8e258c3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\daa9a25d97b41762f5b5f5dd482a1285\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\daa9a25d97b41762f5b5f5dd482a1285\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f56313a3ea7047722d19140e69cd1c2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\f56313a3ea7047722d19140e69cd1c2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\05b0cec9af44fe40bcdd706b54dd1a5f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-beta01] C:\Users\MEHouicha\.gradle\caches\transforms-2\files-2.1\05b0cec9af44fe40bcdd706b54dd1a5f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		ADDED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Data\project\wifirtt\android-WifiRttScan-multiple-APs\Application\src\main\AndroidManifest.xml

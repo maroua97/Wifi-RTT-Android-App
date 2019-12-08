@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Copyright 2018 The Android Open Source ProjectLicensed under the Apache License, Version 2.0 (the "License");you may not use this file except in compliance with the License.You may obtain a copy of the License athttp://www.apache.org/licenses/LICENSE-2.0Unless required by applicable law or agreed to in writing, softwaredistributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions andlimitations under the License. -->
+
+    <manifest android:versionName="1.0" android:versionCode="1" package="com.example.android.wifirttscan" xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <uses-feature android:name="android.hardware.wifi.rtt"/>
+
+  <!-- Permissions required for Wifi RTT. -->
+
+
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+  <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+
+  <application android:theme="@style/CustomAppTheme" android:supportsRtl="true" android:roundIcon="@mipmap/ic_launcher_round" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:allowBackup="true">
+
+
+  <activity android:name=".MainActivity" android:theme="@style/CustomAppTheme" android:label="@string/app_name">
+
+
+  <intent-filter>
+
+  <action android:name="android.intent.action.MAIN"/>
+
+  <category android:name="android.intent.category.LAUNCHER"/>
+
+</intent-filter>
+
+</activity>
+
+  <activity android:name=".LocationPermissionRequestActivity" android:theme="@style/CustomAppTheme" android:label="@string/title_activity_location_permission_request" android:parentActivityName=".MainActivity"> </activity>
+
+  <activity android:name=".AccessPointRangingResultsActivity" android:theme="@style/CustomAppTheme" android:label="@string/title_activity_access_point_ranging_results" android:parentActivityName=".MainActivity"> </activity>
+
+</application>
+
+</manifest>
